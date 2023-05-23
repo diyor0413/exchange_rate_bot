@@ -1,0 +1,2 @@
+from scrapingfile import dollar_exchange_rate
+from scrapingfile import euro_exchange_rate
